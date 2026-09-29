@@ -1,0 +1,185 @@
+The value of i is 0
+
+The value of k is 0
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 1
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 2
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 3
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 4
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of i is 1
+
+The value of k is 0
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 1
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 2
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 3
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 4
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of i is 2
+
+The value of k is 0
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 1
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 2
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 3
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 4
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of i is 3
+
+The value of k is 0
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 1
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 2
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 3
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 4
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of i is 4
+
+The value of k is 0
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 1
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 2
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 3
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
+The value of k is 4
+
+The value of j is 0
+The value of j is 1
+The value of j is 2
+The value of j is 3
+The value of j is 4
